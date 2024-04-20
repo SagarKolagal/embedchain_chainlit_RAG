@@ -1,5 +1,3 @@
-# Welcome to CBC Bot! 🚀🤖
-
-## Welcome screen
+# Welcome to RAG Bot! 🚀🤖
 
 
