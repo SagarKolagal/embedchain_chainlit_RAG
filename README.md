@@ -1,4 +1,4 @@
-Sure, I can help you create a README for your GitHub repository. Here's a basic template to get you started:
+
 
 ```markdown
 # Embedchain Chainlit RAG
